@@ -58,4 +58,7 @@ The trained Random Forest Regression model successfully predicts house prices us
 * Build a Streamlit web application for interactive predictions.
 * Deploy the model for real-world use.
 
+ ## Dataset
+The dataset used in this project was obtained from Kaggle.
+
 
